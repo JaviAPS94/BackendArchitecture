@@ -32,7 +32,7 @@ This design document presents a proposed solution to implement a backend system 
 
 ### Diagrams
 
-####First Approach
+#### First Approach
 
 ![Project Structure](./diagramsImages/first-approach.svg)
 
