@@ -31,7 +31,10 @@ This design document presents a proposed solution to implement a backend system 
 ## Architecture
 
 ### Diagrams
-put sequence diagrams, uml, etc
+
+####First Approach
+
+![Project Structure](./diagramsImages/first-approach.svg)
 
 ### Data model
 Put design of entities, Jsons, tables, entity relationship diagrams, etc.
