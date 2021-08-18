@@ -70,4 +70,4 @@ Example:
 "Considering N daily users, M calls to X service / database / etc"
 * 1000 daily calls to serverless functions. $ XX.XX
 * 1000 read / write units daily to X Database on-demand. $ XX.XX
-  Total: $ xx.xx (per month / day / year)
+  Total: $ xx.x (per month / day / year)
