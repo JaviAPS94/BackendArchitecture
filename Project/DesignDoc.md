@@ -44,10 +44,10 @@ This design document presents a proposed solution to implement a backend system 
 
 ---
 ### Test plan
-* Crear proyecto de pruebas que valide los siguientes casos de uso.
 
-- Registrar usuario, crear review, simular que visitante puede leer el review escrito.
+* Create test project that validates the following use cases.
 
+- Register user, create review, simulate that visitor can read the written review.
 
 ---
 ### Continuous integration
