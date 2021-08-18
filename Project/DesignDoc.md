@@ -36,6 +36,10 @@ This design document presents a proposed solution to implement a backend system 
 
 ![Project Structure](./diagramsImages/architecture.svg)
 
+#### New functionalities distribution plan
+
+![Project Structure](./diagramsImages/functionality-sequence-diagram.svg)
+
 ### Data model
 
 #### Reviews Data Model
