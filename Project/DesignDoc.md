@@ -32,12 +32,27 @@ This design document presents a proposed solution to implement a backend system 
 
 ### Diagrams
 
-#### First Approach
+#### Architecture
 
-![Project Structure](./diagramsImages/first-approach.svg)
+![Project Structure](./diagramsImages/architecture.svg)
 
 ### Data model
-Put design of entities, Jsons, tables, entity relationship diagrams, etc.
+
+#### Reviews Data Model
+
+![Project Structure](./diagramsImages/review-data-model.svg)
+
+---
+### Test plan
+* Crear proyecto de pruebas que valide los siguientes casos de uso.
+
+- Registrar usuario, crear review, simular que visitante puede leer el review escrito.
+
+
+---
+### Continuous integration
+
+![Project Structure](./diagramsImages/ci-diagram.svg)
 
 ---
 ## Limitations
