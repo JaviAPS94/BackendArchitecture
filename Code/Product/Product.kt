@@ -1,0 +1,3 @@
+open class Product : IProduct {
+    
+}
